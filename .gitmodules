@@ -1,0 +1,3 @@
+[submodule "win10explore"]
+	path = win10explore
+	url = https://github.com/ghboke/win10explore.git
